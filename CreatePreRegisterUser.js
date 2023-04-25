@@ -1,5 +1,4 @@
 function CreatePreRegisterUser() {
-    require('dotenv').config();
     const name = document.querySelector('#name')
     const lastName = document.querySelector('#lastName')
     const user = document.querySelector('#lastName')
